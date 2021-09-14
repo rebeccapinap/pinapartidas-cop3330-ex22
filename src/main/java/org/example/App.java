@@ -52,7 +52,7 @@ public class App
 
         if (num3 > num1 && num3 > num2)
         {
-            max = num1;
+            max = num3;
         }
 
         System.out.printf("The largest number is %d.", max);
